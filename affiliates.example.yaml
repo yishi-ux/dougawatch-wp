@@ -1,0 +1,6 @@
+# コピーして affiliates.yaml にする
+# MGS動画のアフィURLを入れる
+
+AFFILIATE_MAIN: "https://www.mgstage.com/？？？トップ用"
+AFFILIATE_SALE: "https://www.mgstage.com/？？？セール用"
+AFFILIATE_COUPON: "https://www.mgstage.com/？？？クーポン用"

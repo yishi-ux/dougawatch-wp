@@ -1,0 +1,17 @@
+.env
+affiliates.yaml
+site.yaml
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# アイキャッチはローカル / WordPress のみ
+images/*
+!images/.gitkeep
+!images/uploaded-media.json
+
+# サイト固有の投稿記録（テンプレからはコミットしない想定だが、実サイトでは任意）
+articles/posted.json

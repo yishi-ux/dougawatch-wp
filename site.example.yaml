@@ -1,0 +1,25 @@
+# コピーして site.yaml にする
+# cp site.example.yaml site.yaml
+
+site_name: "サイト名"
+site_tagline: "短いキャッチフレーズ"
+site_url: "https://example.com"
+asp: "ASP名（FANZA / MGS など）"
+
+# frontmatter の category スラッグ → WordPress表示名
+categories:
+  guide: "買い方ガイド"
+  sale: "セール情報"
+  streaming: "見放題・月額"
+  campaign: "キャンペーン"
+
+# frontmatter の tag スラッグ → WordPress表示名
+tags:
+  coupon: "クーポン"
+  first-time: "初回特典"
+  sale: "セール"
+
+# <!-- CTA: KEY --> のボタン文言
+cta_labels:
+  AFFILIATE_MAIN: "公式サイトで見る"
+  AFFILIATE_SALE: "セールを見る"
