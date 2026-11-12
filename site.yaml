@@ -1,0 +1,23 @@
+site_name: "MGS動画買い方ガイド"
+site_tagline: "セール・クーポンで安く見る"
+site_url: "https://dougawatch.com"
+asp: "MGS動画"
+
+categories:
+  guide: "買い方ガイド"
+  sale: "セール情報"
+  streaming: "見放題・月額"
+  campaign: "キャンペーン"
+
+tags:
+  coupon: "クーポン"
+  first-time: "初回特典"
+  sale: "セール"
+  half-price: "半額"
+  points: "ポイント"
+  payment: "支払い"
+
+cta_labels:
+  AFFILIATE_MAIN: "MGS動画を見る"
+  AFFILIATE_SALE: "セールを見る"
+  AFFILIATE_COUPON: "クーポンを確認する"

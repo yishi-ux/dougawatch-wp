@@ -1,6 +1,5 @@
 .env
 affiliates.yaml
-site.yaml
 .venv/
 __pycache__/
 *.pyc
